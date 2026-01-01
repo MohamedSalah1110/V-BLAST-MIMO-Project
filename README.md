@@ -134,20 +134,41 @@ must be handled by the receiver using advanced detection algorithms.
 
 ---
 
-## 🛠 How to Run the Code
+📁 Project Folder Structure
 
-1. Open MATLAB
-2. Ensure the project folder structure is preserved
-3. Run:
-```matlab
-main
+The project is organized as follows:
+
 V-BLAST-MIMO-Project/
 │
 ├── main.m
+│   Main MATLAB script used to run all simulations and generate results.
+│
 ├── src/
 │   ├── run_mimo_sim.m
+│   │   Core simulation function implementing all MIMO detectors.
 │   └── sic_detect.m
+│       Helper function implementing SIC-based detection.
+│
 ├── plots/
 │   ├── BER_vs_Nr.png
+│   │   BER versus number of receive antennas.
 │   └── BER_vs_SNR.png
-└── README.md
+│       BER versus SNR for a fixed 3×3 MIMO system.
+│
+├── README.md
+│   Project documentation and explanation of results.
+│
+├── .gitignore
+│   Specifies files and folders ignored by Git.
+
+---
+
+## 🧠 How to Use the Folder Structure
+
+- Run the project by executing **`main.m`**
+- Do not move files outside their folders
+- Figures in `plots/` are automatically referenced in this README
+
+---
+
+

@@ -84,7 +84,7 @@ must be handled by the receiver using advanced detection algorithms.
 
 ![BER vs Number of Receive Antennas](plots/BER_vs_Nr.png)
 
----
+
 
 ### 🔹 2) BER vs SNR (Detection Performance)
 

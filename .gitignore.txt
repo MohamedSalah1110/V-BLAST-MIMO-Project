@@ -1,0 +1,20 @@
+# ================= MATLAB =================
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# ================= Operating System =================
+.DS_Store
+Thumbs.db
+
+# ================= Logs =================
+*.log
+
+# ================= Data Files =================
+# Large simulation data (not needed in GitHub)
+*.mat

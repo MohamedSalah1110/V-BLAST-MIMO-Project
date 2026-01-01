@@ -82,7 +82,9 @@ must be handled by the receiver using advanced detection algorithms.
 
 📷 Result figure:
 
-plots/BER_vs_Nr.png
+![BER vs Number of Receive Antennas](plots/BER_vs_Nr.png)
+
+---
 
 ### 🔹 2) BER vs SNR (Detection Performance)
 
@@ -97,7 +99,9 @@ plots/BER_vs_Nr.png
 
 📷 Result figure:
 
-plots/BER_vs_SNR.png
+![BER vs SNR](plots/BER_vs_SNR.png)
+
+---
 
 ## ⏱ Detector Complexity and Performance Trade-Off
 

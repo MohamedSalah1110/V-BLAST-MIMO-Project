@@ -83,7 +83,11 @@ must be handled by the receiver using advanced detection algorithms.
 📷 Result figure:
 
 ![BER vs Number of Receive Antennas](plots/BER_vs_Nr.png)
-
+<p align="center">
+  <img src="plots/BER_vs_Nr.png" alt="BER vs Number of Receive Antennas" width="600">
+  <br>
+  <em>Figure 1: BER vs Number of Receive Antennas (Nt = 3, SNR = 10 dB)</em>
+</p>
 
 
 ### 🔹 2) BER vs SNR (Detection Performance)
@@ -100,6 +104,12 @@ must be handled by the receiver using advanced detection algorithms.
 📷 Result figure:
 
 ![BER vs SNR](plots/BER_vs_SNR.png)
+<p align="center">
+  <img src="plots/BER_vs_SNR.png" alt="BER vs SNR" width="600">
+  <br>
+  <em>Figure 2: BER vs SNR (3 × 3 MIMO System)</em>
+</p>
+
 
 ---
 

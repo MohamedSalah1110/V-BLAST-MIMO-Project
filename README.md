@@ -82,7 +82,6 @@ must be handled by the receiver using advanced detection algorithms.
 
 📷 Result figure:
 
-![BER vs Number of Receive Antennas](plots/BER_vs_Nr.png)
 <p align="center">
   <img src="plots/BER_vs_Nr.png" alt="BER vs Number of Receive Antennas" width="600">
   <br>
@@ -103,7 +102,6 @@ must be handled by the receiver using advanced detection algorithms.
 
 📷 Result figure:
 
-![BER vs SNR](plots/BER_vs_SNR.png)
 <p align="center">
   <img src="plots/BER_vs_SNR.png" alt="BER vs SNR" width="600">
   <br>
